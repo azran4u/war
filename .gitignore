@@ -1,5 +1,6 @@
 node_modules
 /deps
-yarn.lock
 yarn-error.log
 deps.zip
+npm-packages-offline-cache
+.yarn

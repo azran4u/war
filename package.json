@@ -4,10 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@angular-devkit/build-angular": "~0.1001.6",
-    "@angular-devkit/build-ng-packagr": "~0.1001.6",
-    "@angular-devkit/core": "^10.1.6",
-    "@angular-devkit/schematics": "^10.1.6",
     "@angular/animations": "~10.1.5",
     "@angular/cdk": "^10.2.4",
     "@angular/cli": "~10.1.6",
@@ -74,7 +70,6 @@
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "chokidar": "^3.4.2",
-    "clinic": "^7.0.0",
     "codelyzer": "~6.0.1",
     "commander": "^6.1.0",
     "connect-ensure-login": "^0.1.1",
