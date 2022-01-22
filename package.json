@@ -123,7 +123,7 @@
     "ng-packagr": "^10.1.2",
     "ngrx-store-freeze": "^0.2.4",
     "ngx-material-timepicker": "^5.5.3",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "nodejs-websocket": "^1.7.2",
     "nodemon": "^2.0.4",
     "nyc": "^15.1.0",
